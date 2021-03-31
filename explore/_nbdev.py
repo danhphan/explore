@@ -16,11 +16,15 @@ index = {"hello": "01_pydecorator.ipynb",
          "true_or_false": "01_pydecorator.ipynb",
          "reversed": "01_pydecorator.ipynb",
          "robber_language": "01_pydecorator.ipynb",
-         "REGISTERED": "01_pydecorator.ipynb"}
+         "REGISTERED": "01_pydecorator.ipynb",
+         "count_calls": "10_pydecorator_adv.ipynb",
+         "fibonacci": "10_pydecorator_adv.ipynb",
+         "CountCalls": "10_pydecorator_adv.ipynb"}
 
 modules = ["pydecorator.py",
            "pyscraper.py",
-           "pyencoding.py"]
+           "pyencoding.py",
+           "pydecorator_adv.py"]
 
 doc_url = "https://danhphan.github.io/explore/"
 

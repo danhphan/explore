@@ -10,6 +10,12 @@
     "Testing skorch": "skorch.html",
     "Math optimisation with Scipy": "math_optimisation.html",
     "Data sciecne from scratch": "ds_scratch.html",
-    "Openstreet Map": "openstreet_map.html"
+    "Openstreet Map": "openstreet_map.html",
+    "Python advanced decorators": "pydecorator_adv.html",
+    "Mapping in python": "pymap.html",
+    "Diferent clustering methods for spatial data": "space_clustering.html",
+    "Testing in python with pytest": "pytest.html",
+    "tSNE visualisation": "tsne_visualisation.html",
+    "Spatial analysis with geopandas": "geopandas.html"
   }
 }

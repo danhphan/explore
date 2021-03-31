@@ -39,6 +39,24 @@ entries:
     - output: web,pdf
       title: Openstreet Map
       url: openstreet_map.html
+    - output: web,pdf
+      title: Python advanced decorators
+      url: pydecorator_adv.html
+    - output: web,pdf
+      title: Mapping in python
+      url: pymap.html
+    - output: web,pdf
+      title: Diferent clustering methods for spatial data
+      url: space_clustering.html
+    - output: web,pdf
+      title: Testing in python with pytest
+      url: pytest.html
+    - output: web,pdf
+      title: tSNE visualisation
+      url: tsne_visualisation.html
+    - output: web,pdf
+      title: Spatial analysis with geopandas
+      url: geopandas.html
     output: web
     title: explore
   output: web
