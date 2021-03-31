@@ -1,6 +1,7 @@
 {
   "explore": {
     "Overview": "/",
-    "module name here": "core.html"
+    "module name here": "core.html",
+    "Python decorators": "pydecorator.html"
   }
 }

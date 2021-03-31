@@ -2,9 +2,23 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"hello": "01_pydecorator.ipynb",
+         "wrapper": "01_pydecorator.ipynb",
+         "timer": "01_pydecorator.ipynb",
+         "waste_time": "01_pydecorator.ipynb",
+         "get_params": "01_pydecorator.ipynb",
+         "trace": "01_pydecorator.ipynb",
+         "greet": "01_pydecorator.ipynb",
+         "random_greet": "01_pydecorator.ipynb",
+         "greet_many": "01_pydecorator.ipynb",
+         "GREETINGS": "01_pydecorator.ipynb",
+         "register": "01_pydecorator.ipynb",
+         "true_or_false": "01_pydecorator.ipynb",
+         "reversed": "01_pydecorator.ipynb",
+         "robber_language": "01_pydecorator.ipynb",
+         "REGISTERED": "01_pydecorator.ipynb"}
 
-modules = []
+modules = ["pydecorator.py"]
 
 doc_url = "https://danhphan.github.io/explore/"
 
