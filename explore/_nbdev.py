@@ -18,7 +18,9 @@ index = {"hello": "01_pydecorator.ipynb",
          "robber_language": "01_pydecorator.ipynb",
          "REGISTERED": "01_pydecorator.ipynb"}
 
-modules = ["pydecorator.py"]
+modules = ["pydecorator.py",
+           "pyscraper.py",
+           "pyencoding.py"]
 
 doc_url = "https://danhphan.github.io/explore/"
 

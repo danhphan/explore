@@ -15,6 +15,30 @@ entries:
     - output: web,pdf
       title: Python decorators
       url: pydecorator.html
+    - output: web,pdf
+      title: 'Scraping with Parsel and Selinium '
+      url: pyscraper.html
+    - output: web,pdf
+      title: Encoding categorical features
+      url: pyencoding.html
+    - output: web,pdf
+      title: Scraping housing data
+      url: housing_data_collection.html
+    - output: web,pdf
+      title: Twitter sentiment with tweepy and vader
+      url: pytwitter.html
+    - output: web,pdf
+      title: Testing skorch
+      url: skorch.html
+    - output: web,pdf
+      title: Math optimisation with Scipy
+      url: math_optimisation.html
+    - output: web,pdf
+      title: Data sciecne from scratch
+      url: ds_scratch.html
+    - output: web,pdf
+      title: Openstreet Map
+      url: openstreet_map.html
     output: web
     title: explore
   output: web

@@ -2,6 +2,14 @@
   "explore": {
     "Overview": "/",
     "module name here": "core.html",
-    "Python decorators": "pydecorator.html"
+    "Python decorators": "pydecorator.html",
+    "Scraping with Parsel and Selinium ": "pyscraper.html",
+    "Encoding categorical features": "pyencoding.html",
+    "Scraping housing data": "housing_data_collection.html",
+    "Twitter sentiment with tweepy and vader": "pytwitter.html",
+    "Testing skorch": "skorch.html",
+    "Math optimisation with Scipy": "math_optimisation.html",
+    "Data sciecne from scratch": "ds_scratch.html",
+    "Openstreet Map": "openstreet_map.html"
   }
 }
