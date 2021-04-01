@@ -16,6 +16,7 @@
     "Diferent clustering methods for spatial data": "space_clustering.html",
     "Testing in python with pytest": "pytest.html",
     "tSNE visualisation": "tsne_visualisation.html",
-    "Spatial analysis with geopandas": "geopandas.html"
+    "Spatial analysis with geopandas": "geopandas.html",
+    "Python Optimization": "optimization_grad_newton.html"
   }
 }
