@@ -1,7 +1,6 @@
 {
   "explore": {
     "Overview": "/",
-    "module name here": "core.html",
     "Python decorators": "pydecorator.html",
     "Scraping with Parsel and Selinium ": "pyscraper.html",
     "Encoding categorical features": "pyencoding.html",

@@ -1,18 +1,18 @@
-# Project name here
-> Summary description here.
+# Python exploration
+> Exploring advanced python features and useful packages
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install pyexplore`
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+code examples:
 
-```
+```python
 1+1
 ```
 
