@@ -55,6 +55,9 @@ entries:
       title: Spatial analysis with geopandas
       url: geopandas.html
     - output: web,pdf
+      title: Pandas pivot table and crosstab
+      url: pandas_pivot_crosstab.html
+    - output: web,pdf
       title: Python Optimization
       url: optimization_grad_newton.html
     output: web

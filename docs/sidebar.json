@@ -16,6 +16,7 @@
     "Testing in python with pytest": "pytest.html",
     "tSNE visualisation": "tsne_visualisation.html",
     "Spatial analysis with geopandas": "geopandas.html",
+    "Pandas pivot table and crosstab": "pandas_pivot_crosstab.html",
     "Python Optimization": "optimization_grad_newton.html"
   }
 }
