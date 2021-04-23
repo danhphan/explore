@@ -17,6 +17,7 @@
     "tSNE visualisation": "tsne_visualisation.html",
     "Spatial analysis with geopandas": "geopandas.html",
     "Pandas pivot table and crosstab": "pandas_pivot_crosstab.html",
+    "Pytorch weight decay": "pytorch_weight_decay.html",
     "Python Optimization": "optimization_grad_newton.html"
   }
 }

@@ -58,6 +58,9 @@ entries:
       title: Pandas pivot table and crosstab
       url: pandas_pivot_crosstab.html
     - output: web,pdf
+      title: Pytorch weight decay
+      url: pytorch_weight_decay.html
+    - output: web,pdf
       title: Python Optimization
       url: optimization_grad_newton.html
     output: web
