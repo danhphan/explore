@@ -12,6 +12,7 @@
     "Openstreet Map": "openstreet_map.html",
     "Python advanced decorators": "pydecorator_adv.html",
     "Mapping in python": "pymap.html",
+    "Title": "gcp_elevation_api.html",
     "Diferent clustering methods for spatial data": "space_clustering.html",
     "Testing in python with pytest": "pytest.html",
     "tSNE visualisation": "tsne_visualisation.html",
