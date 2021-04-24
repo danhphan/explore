@@ -13,6 +13,7 @@
     "Python advanced decorators": "pydecorator_adv.html",
     "Mapping in python": "pymap.html",
     "Traffic networks with google elevation api": "gcp_elevation_api.html",
+    "Openstreetmap point of interest data": "osm_data.html",
     "Diferent clustering methods for spatial data": "space_clustering.html",
     "Testing in python with pytest": "pytest.html",
     "tSNE visualisation": "tsne_visualisation.html",

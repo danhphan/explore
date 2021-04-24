@@ -46,6 +46,9 @@ entries:
       title: Traffic networks with google elevation api
       url: gcp_elevation_api.html
     - output: web,pdf
+      title: Openstreetmap point of interest data
+      url: osm_data.html
+    - output: web,pdf
       title: Diferent clustering methods for spatial data
       url: space_clustering.html
     - output: web,pdf
