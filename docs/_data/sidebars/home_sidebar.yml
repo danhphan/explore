@@ -43,7 +43,7 @@ entries:
       title: Mapping in python
       url: pymap.html
     - output: web,pdf
-      title: Title
+      title: Traffic networks with google elevation api
       url: gcp_elevation_api.html
     - output: web,pdf
       title: Diferent clustering methods for spatial data
